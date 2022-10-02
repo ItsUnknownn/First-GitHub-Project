@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+}
+nav {
+    display: inline-flex;
+    background-color: aquamarine;
+    width: 100%;
+    padding: 5px 15px 5px 15px;
+}
+nav img {
+    width: 35%;
+    max-width: 200px;
+}
+
+nav ul {
+    display: inline-flex;
+    padding-left: 75px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    padding-right: 50px;
+
+}
+section header {
+    display: inline-flex;
+}
+header figure img {
+    max-width: 275px;
+    width: 100%;
+    min-width: 50px;
+}
